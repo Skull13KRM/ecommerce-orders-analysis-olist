@@ -53,8 +53,6 @@ A Python data analysis project exploring customer orders and payments for Olist,
 
     * Stacked Bar Chart: Monthly payment value by payment type
 
-    * Line Chart: Total monthly payment trends
-
     * Scatter Plot: Payment value vs. installment count (customer-level)
 
 <p align="center"> <img src="my_plot.png" width="600" alt="Sample subplot showing all visualizations"> </p>
